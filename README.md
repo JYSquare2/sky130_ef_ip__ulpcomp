@@ -5,7 +5,9 @@ IP: Ultra Low-Power Comparator.
 
 Technology: Skywater 130nm.
 
-Design Team: Intelligent Computing Research Group, Shanghai Jiao Tong University.
+Contributor: 
+1. Intelligent Computing Research Group, Shanghai Jiao Tong University.
+2. Efabless Coorperation
 
 Status: `Undergoing`
 
