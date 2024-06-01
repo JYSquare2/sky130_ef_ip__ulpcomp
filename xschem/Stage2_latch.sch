@@ -1,4 +1,4 @@
-v {xschem version=3.4.4 file_version=1.2
+v {xschem version=3.4.5 file_version=1.2
 }
 G {}
 K {}
@@ -87,8 +87,6 @@ N 120 -320 120 -260 {
 lab=dvss}
 N 120 -540 120 -490 {
 lab=dvddb}
-N 120 -490 120 -460 {
-lab=dvddb}
 N 120 -350 120 -320 {
 lab=dvss}
 N 220 -460 250 -460 {
@@ -105,6 +103,7 @@ N 80 -400 120 -400 {
 lab=vout}
 N 510 -640 510 -610 {
 lab=dvdd}
+N 120 -490 120 -460 {}
 C {devices/ipin.sym} 220 -460 0 0 {name=p15 sig_type=std_logic lab=clkb
 }
 C {devices/lab_pin.sym} 840 -460 2 0 {name=p16 sig_type=std_logic lab=clkb

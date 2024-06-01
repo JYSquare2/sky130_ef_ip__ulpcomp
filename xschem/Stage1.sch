@@ -1,4 +1,4 @@
-v {xschem version=3.4.4 file_version=1.2
+v {xschem version=3.4.5 file_version=1.2
 }
 G {}
 K {}
@@ -86,10 +86,13 @@ N 370 -140 370 -100 {
 lab=#net3}
 N 370 -150 370 -140 {
 lab=#net3}
+N -60 -390 -30 -390 {
+lab=dvdd}
+N -60 -340 -30 -340 {
+lab=dvss}
 C {devices/ipin.sym} 400 -600 0 0 {name=p1 lab=avdd}
 C {devices/ipin.sym} 170 -340 0 0 {name=p3 lab=vinp}
 C {devices/ipin.sym} 630 -340 2 0 {name=p4 lab=vinn}
-C {devices/opin.sym} 410 -30 0 0 {name=p5 lab=avss}
 C {devices/opin.sym} 620 -280 0 0 {name=p9 sig_type=std_logic lab=opos}
 C {devices/opin.sym} 180 -280 2 0 {name=p6 sig_type=std_logic lab=oneg}
 C {sky130_fd_pr/pfet_g5v0d10v5.sym} 380 -540 0 0 {name=M1
@@ -195,3 +198,8 @@ model=nfet_g5v0d10v5
 spiceprefix=X
 }
 C {xschem_verilog_import/sky130_fd_sc_hvl__lsbuflv2hv_1.sym} -10 -550 0 0 {name=x1 LVPWR=dvdd VGND=dvss VNB=dvss VPB=avdd VPWR=avdd prefix=sky130_fd_pr__ }
+C {devices/ipin.sym} -60 -390 0 0 {name=p7 lab=dvdd}
+C {devices/ipin.sym} 410 -30 0 0 {name=p10 lab=avss}
+C {devices/ipin.sym} -60 -340 0 0 {name=p5 lab=dvss}
+C {devices/lab_pin.sym} -30 -390 0 1 {name=p8 sig_type=std_logic lab=dvdd}
+C {devices/lab_pin.sym} -30 -340 0 1 {name=p11 sig_type=std_logic lab=dvss}

@@ -1,0 +1,70 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1717183580
+<< locali >>
+rect 422 123 838 136
+rect 422 65 510 123
+rect 814 65 838 123
+rect 422 54 838 65
+rect 422 -1218 839 -1205
+rect 422 -1276 516 -1218
+rect 823 -1276 839 -1218
+rect 422 -1287 839 -1276
+<< viali >>
+rect 510 65 814 123
+rect 516 -1276 823 -1218
+<< metal1 >>
+rect 422 123 838 136
+rect 422 65 510 123
+rect 814 65 838 123
+rect 422 56 838 65
+rect 422 54 696 56
+rect 774 54 838 56
+rect 493 -461 538 54
+rect 379 -674 477 -559
+rect 617 -674 651 4
+rect 713 -393 766 -79
+rect 379 -710 651 -674
+rect 379 -759 477 -710
+rect 493 -1205 538 -907
+rect 617 -1158 651 -710
+rect 712 -558 766 -393
+rect 712 -758 885 -558
+rect 712 -1095 766 -758
+rect 712 -1205 766 -1203
+rect 422 -1218 839 -1205
+rect 422 -1276 516 -1218
+rect 823 -1276 839 -1218
+rect 422 -1287 839 -1276
+<< via1 >>
+rect 510 65 814 123
+rect 516 -1276 823 -1218
+<< metal2 >>
+rect 379 123 884 136
+rect 379 65 510 123
+rect 814 65 884 123
+rect 379 -64 884 65
+rect 379 -1218 884 -1086
+rect 379 -1276 516 -1218
+rect 823 -1276 884 -1218
+rect 379 -1286 884 -1276
+rect 492 -1287 839 -1286
+use sky130_fd_pr__nfet_01v8_PVEW3M  XM24 paramcells
+timestamp 1717166647
+transform 1 0 632 0 1 -996
+box -246 -310 246 310
+use sky130_fd_pr__pfet_01v8_XPB8Y6  XM25 paramcells
+timestamp 1717166647
+transform 1 0 632 0 1 -267
+box -246 -419 246 419
+<< labels >>
+flabel metal1 733 -758 885 -558 0 FreeSans 256 0 0 0 enab
+port 2 nsew
+flabel metal2 379 -1286 474 -1086 0 FreeSans 256 0 0 0 dvss
+port 3 nsew
+flabel metal1 379 -759 474 -559 0 FreeSans 256 0 0 0 ena
+port 1 nsew
+flabel metal2 379 -64 474 136 0 FreeSans 256 0 0 0 dvdd
+port 0 nsew
+<< end >>

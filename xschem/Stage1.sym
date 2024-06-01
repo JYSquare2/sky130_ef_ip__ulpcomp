@@ -1,4 +1,4 @@
-v {xschem version=3.4.4 file_version=1.2
+v {xschem version=3.4.5 file_version=1.2
 }
 G {}
 K {type=subcircuit
@@ -35,6 +35,8 @@ L 4 280 -170 280 -150 {}
 L 4 270 -120 290 -120 {}
 L 4 300 -90 300 -70 {}
 L 4 340 -110 340 -70 {}
+L 4 390 -60 390 -50 {}
+L 4 390 -240 390 -230 {}
 B 5 337.5 -242.5 342.5 -237.5 {name=avdd dir=in}
 B 5 297.5 -242.5 302.5 -237.5 {name=enab sig_type=std_logic dir=in}
 B 5 297.5 -52.5 302.5 -47.5 {name=clka sig_type=std_logic dir=in}
@@ -42,9 +44,11 @@ B 5 217.5 -122.5 222.5 -117.5 {name=vinn dir=in}
 B 5 217.5 -162.5 222.5 -157.5 {name=vinp dir=in}
 B 5 427.5 -122.5 432.5 -117.5 {name=oneg sig_type=std_logic dir=out}
 B 5 427.5 -162.5 432.5 -157.5 {name=opos sig_type=std_logic dir=out}
-B 5 337.5 -52.5 342.5 -47.5 {name=avss dir=out}
+B 5 337.5 -52.5 342.5 -47.5 {name=avss dir=in}
+B 5 387.5 -52.5 392.5 -47.5 {name=dvss dir=in}
+B 5 387.5 -242.5 392.5 -237.5 {name=dvdd dir=in}
 T {@symname} 265 -146 0 0 0.3 0.3 {}
-T {@name} 375 -252 0 0 0.2 0.2 {}
+T {@name} 225 -252 0 0 0.2 0.2 {}
 T {avdd} 345 -224 0 0 0.2 0.2 {}
 T {enab} 305 -224 0 0 0.2 0.2 {}
 T {clka} 305 -74 0 0 0.2 0.2 {}
@@ -53,3 +57,5 @@ T {vinp} 235 -174 0 0 0.2 0.2 {}
 T {oneg} 415 -134 0 1 0.2 0.2 {}
 T {opos} 415 -174 0 1 0.2 0.2 {}
 T {avss} 365 -74 0 1 0.2 0.2 {}
+T {dvss} 405 -74 0 1 0.2 0.2 {}
+T {dvdd} 385 -224 0 0 0.2 0.2 {}

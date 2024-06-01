@@ -1,4 +1,4 @@
-v {xschem version=3.4.4 file_version=1.2
+v {xschem version=3.4.5 file_version=1.2
 }
 G {}
 K {}
@@ -20,8 +20,6 @@ N 930 -370 960 -370 {
 lab=vinn}
 N 1080 -560 1080 -490 {
 lab=avdd}
-N 1080 -300 1080 -240 {
-lab=avss}
 N 250 -590 320 -590 {
 lab=ena}
 N 150 -180 210 -180 {
@@ -56,12 +54,16 @@ N 1380 -300 1380 -240 {
 lab=dvss}
 N 1480 -440 1530 -440 {
 lab=dvddb}
+N 1080 -300 1080 -210 {
+lab=avss}
+N 1130 -300 1130 -180 {
+lab=dvss}
+N 1130 -580 1130 -490 {
+lab=#net3}
 C {devices/ipin.sym} 1080 -560 0 0 {name=p1 lab=avdd}
 C {devices/ipin.sym} 930 -410 0 0 {name=p3 lab=vinp}
 C {devices/ipin.sym} 930 -370 0 0 {name=p4 lab=vinn}
-C {devices/opin.sym} 1080 -240 0 0 {name=p5 lab=avss}
 C {devices/opin.sym} 1530 -390 0 0 {name=p18 lab=vout}
-C {devices/opin.sym} 430 -450 0 0 {name=p19 lab=dvss}
 C {devices/ipin.sym} 430 -740 0 0 {name=p24 lab=dvdd}
 C {devices/ipin.sym} 150 -180 0 0 {name=p29 lab=clk}
 C {devices/ipin.sym} 250 -590 0 0 {name=p27 lab=ena}
@@ -85,3 +87,7 @@ C {devices/lab_pin.sym} 740 -130 2 0 {name=p47 sig_type=std_logic lab=clkb
 }
 C {devices/lab_pin.sym} 290 -350 0 0 {name=p48 sig_type=std_logic lab=dvddb}
 C {devices/lab_pin.sym} 1040 -540 0 0 {name=p49 sig_type=std_logic lab=enab}
+C {devices/ipin.sym} 430 -450 0 0 {name=p2 lab=dvss}
+C {devices/ipin.sym} 1080 -210 0 0 {name=p5 lab=avss}
+C {devices/lab_pin.sym} 1130 -180 0 0 {name=p6 sig_type=std_logic lab=dvss}
+C {devices/lab_pin.sym} 1130 -580 0 0 {name=p7 sig_type=std_logic lab=dvdd}

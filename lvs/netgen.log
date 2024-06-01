@@ -1,0 +1,405 @@
+Netgen 1.5.273 compiled on Tue May 14 15:25:31 EDT 2024
+Warning: netgen command 'format' use fully-qualified name '::netgen::format'
+Warning: netgen command 'global' use fully-qualified name '::netgen::global'
+Call to undefined subcircuit sky130_fd_pr__nfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8_hvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_03v3_nvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_g5v0d10v5
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__diode_pw2nd_11v0
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8_hvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_05v0_nvt
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_generic_nd__hv
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__res_generic_pd__hv
+Creating placeholder cell definition.
+Call to undefined subcircuit Stage0_clk_inv
+Creating placeholder cell definition.
+Call to undefined subcircuit Stage1
+Creating placeholder cell definition.
+Call to undefined subcircuit Stage2_latch
+Creating placeholder cell definition.
+Call to undefined subcircuit Stage0_ena_inv
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__pfet_01v8
+Creating placeholder cell definition.
+Call to undefined subcircuit sky130_fd_pr__nfet_03v3_nvt
+Creating placeholder cell definition.
+
+Reading setup file /usr/local/share/pdk/sky130A/libs.tech/netgen/sky130A_setup.tcl
+
+Model sky130_fd_pr__res_generic_nd__hv pin 1 == 2
+No property value found for device sky130_fd_pr__res_generic_nd__hv
+No property mult found for device sky130_fd_pr__res_generic_nd__hv
+Model sky130_fd_pr__res_generic_pd__hv pin 1 == 2
+No property value found for device sky130_fd_pr__res_generic_pd__hv
+No property mult found for device sky130_fd_pr__res_generic_pd__hv
+No such pin 1 in model sky130_fd_pr__res_generic_po
+No property mult found for device sky130_fd_pr__res_generic_po
+Model sky130_fd_pr__nfet_01v8 pin 1 == 3
+No property mult found for device sky130_fd_pr__nfet_01v8
+No property sa found for device sky130_fd_pr__nfet_01v8
+No property sb found for device sky130_fd_pr__nfet_01v8
+No property sd found for device sky130_fd_pr__nfet_01v8
+No property nf found for device sky130_fd_pr__nfet_01v8
+No property nrd found for device sky130_fd_pr__nfet_01v8
+No property nrs found for device sky130_fd_pr__nfet_01v8
+No property area found for device sky130_fd_pr__nfet_01v8
+No property perim found for device sky130_fd_pr__nfet_01v8
+No property topography found for device sky130_fd_pr__nfet_01v8
+Model sky130_fd_pr__nfet_01v8 pin 1 == 3
+No property as found for device sky130_fd_pr__nfet_01v8
+No property ad found for device sky130_fd_pr__nfet_01v8
+No property ps found for device sky130_fd_pr__nfet_01v8
+No property pd found for device sky130_fd_pr__nfet_01v8
+No property mult found for device sky130_fd_pr__nfet_01v8
+No property sa found for device sky130_fd_pr__nfet_01v8
+No property sb found for device sky130_fd_pr__nfet_01v8
+No property sd found for device sky130_fd_pr__nfet_01v8
+No property nrd found for device sky130_fd_pr__nfet_01v8
+No property nrs found for device sky130_fd_pr__nfet_01v8
+No property area found for device sky130_fd_pr__nfet_01v8
+No property perim found for device sky130_fd_pr__nfet_01v8
+No property topography found for device sky130_fd_pr__nfet_01v8
+Model sky130_fd_pr__nfet_g5v0d10v5 pin 1 == 3
+No property mult found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sa found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sb found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nf found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nrd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nrs found for device sky130_fd_pr__nfet_g5v0d10v5
+No property area found for device sky130_fd_pr__nfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__nfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__nfet_g5v0d10v5
+Model sky130_fd_pr__nfet_g5v0d10v5 pin 1 == 3
+No property as found for device sky130_fd_pr__nfet_g5v0d10v5
+No property ad found for device sky130_fd_pr__nfet_g5v0d10v5
+No property ps found for device sky130_fd_pr__nfet_g5v0d10v5
+No property pd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property mult found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sa found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sb found for device sky130_fd_pr__nfet_g5v0d10v5
+No property sd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nrd found for device sky130_fd_pr__nfet_g5v0d10v5
+No property nrs found for device sky130_fd_pr__nfet_g5v0d10v5
+No property area found for device sky130_fd_pr__nfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__nfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__nfet_g5v0d10v5
+Model sky130_fd_pr__nfet_03v3_nvt pin 1 == 3
+No property mult found for device sky130_fd_pr__nfet_03v3_nvt
+No property sa found for device sky130_fd_pr__nfet_03v3_nvt
+No property sb found for device sky130_fd_pr__nfet_03v3_nvt
+No property sd found for device sky130_fd_pr__nfet_03v3_nvt
+No property nf found for device sky130_fd_pr__nfet_03v3_nvt
+No property nrd found for device sky130_fd_pr__nfet_03v3_nvt
+No property nrs found for device sky130_fd_pr__nfet_03v3_nvt
+No property area found for device sky130_fd_pr__nfet_03v3_nvt
+No property perim found for device sky130_fd_pr__nfet_03v3_nvt
+No property topography found for device sky130_fd_pr__nfet_03v3_nvt
+Model sky130_fd_pr__nfet_03v3_nvt pin 1 == 3
+No property as found for device sky130_fd_pr__nfet_03v3_nvt
+No property ad found for device sky130_fd_pr__nfet_03v3_nvt
+No property ps found for device sky130_fd_pr__nfet_03v3_nvt
+No property pd found for device sky130_fd_pr__nfet_03v3_nvt
+No property mult found for device sky130_fd_pr__nfet_03v3_nvt
+No property sa found for device sky130_fd_pr__nfet_03v3_nvt
+No property sb found for device sky130_fd_pr__nfet_03v3_nvt
+No property sd found for device sky130_fd_pr__nfet_03v3_nvt
+No property nrd found for device sky130_fd_pr__nfet_03v3_nvt
+No property nrs found for device sky130_fd_pr__nfet_03v3_nvt
+No property area found for device sky130_fd_pr__nfet_03v3_nvt
+No property perim found for device sky130_fd_pr__nfet_03v3_nvt
+No property topography found for device sky130_fd_pr__nfet_03v3_nvt
+Model sky130_fd_pr__nfet_05v0_nvt pin 1 == 3
+No property as found for device sky130_fd_pr__nfet_05v0_nvt
+No property ad found for device sky130_fd_pr__nfet_05v0_nvt
+No property ps found for device sky130_fd_pr__nfet_05v0_nvt
+No property pd found for device sky130_fd_pr__nfet_05v0_nvt
+No property mult found for device sky130_fd_pr__nfet_05v0_nvt
+No property sa found for device sky130_fd_pr__nfet_05v0_nvt
+No property sb found for device sky130_fd_pr__nfet_05v0_nvt
+No property sd found for device sky130_fd_pr__nfet_05v0_nvt
+No property nf found for device sky130_fd_pr__nfet_05v0_nvt
+No property nrd found for device sky130_fd_pr__nfet_05v0_nvt
+No property nrs found for device sky130_fd_pr__nfet_05v0_nvt
+No property area found for device sky130_fd_pr__nfet_05v0_nvt
+No property perim found for device sky130_fd_pr__nfet_05v0_nvt
+No property topography found for device sky130_fd_pr__nfet_05v0_nvt
+Model sky130_fd_pr__pfet_01v8 pin 1 == 3
+No property mult found for device sky130_fd_pr__pfet_01v8
+No property sa found for device sky130_fd_pr__pfet_01v8
+No property sb found for device sky130_fd_pr__pfet_01v8
+No property sd found for device sky130_fd_pr__pfet_01v8
+No property nf found for device sky130_fd_pr__pfet_01v8
+No property nrd found for device sky130_fd_pr__pfet_01v8
+No property nrs found for device sky130_fd_pr__pfet_01v8
+No property area found for device sky130_fd_pr__pfet_01v8
+No property perim found for device sky130_fd_pr__pfet_01v8
+No property topography found for device sky130_fd_pr__pfet_01v8
+Model sky130_fd_pr__pfet_01v8 pin 1 == 3
+No property as found for device sky130_fd_pr__pfet_01v8
+No property ad found for device sky130_fd_pr__pfet_01v8
+No property ps found for device sky130_fd_pr__pfet_01v8
+No property pd found for device sky130_fd_pr__pfet_01v8
+No property mult found for device sky130_fd_pr__pfet_01v8
+No property sa found for device sky130_fd_pr__pfet_01v8
+No property sb found for device sky130_fd_pr__pfet_01v8
+No property sd found for device sky130_fd_pr__pfet_01v8
+No property nrd found for device sky130_fd_pr__pfet_01v8
+No property nrs found for device sky130_fd_pr__pfet_01v8
+No property area found for device sky130_fd_pr__pfet_01v8
+No property perim found for device sky130_fd_pr__pfet_01v8
+No property topography found for device sky130_fd_pr__pfet_01v8
+Model sky130_fd_pr__pfet_01v8_hvt pin 1 == 3
+No property mult found for device sky130_fd_pr__pfet_01v8_hvt
+No property sa found for device sky130_fd_pr__pfet_01v8_hvt
+No property sb found for device sky130_fd_pr__pfet_01v8_hvt
+No property sd found for device sky130_fd_pr__pfet_01v8_hvt
+No property nf found for device sky130_fd_pr__pfet_01v8_hvt
+No property nrd found for device sky130_fd_pr__pfet_01v8_hvt
+No property nrs found for device sky130_fd_pr__pfet_01v8_hvt
+No property area found for device sky130_fd_pr__pfet_01v8_hvt
+No property perim found for device sky130_fd_pr__pfet_01v8_hvt
+No property topography found for device sky130_fd_pr__pfet_01v8_hvt
+Model sky130_fd_pr__pfet_01v8_hvt pin 1 == 3
+No property as found for device sky130_fd_pr__pfet_01v8_hvt
+No property ad found for device sky130_fd_pr__pfet_01v8_hvt
+No property ps found for device sky130_fd_pr__pfet_01v8_hvt
+No property pd found for device sky130_fd_pr__pfet_01v8_hvt
+No property mult found for device sky130_fd_pr__pfet_01v8_hvt
+No property sa found for device sky130_fd_pr__pfet_01v8_hvt
+No property sb found for device sky130_fd_pr__pfet_01v8_hvt
+No property sd found for device sky130_fd_pr__pfet_01v8_hvt
+No property nrd found for device sky130_fd_pr__pfet_01v8_hvt
+No property nrs found for device sky130_fd_pr__pfet_01v8_hvt
+No property area found for device sky130_fd_pr__pfet_01v8_hvt
+No property perim found for device sky130_fd_pr__pfet_01v8_hvt
+No property topography found for device sky130_fd_pr__pfet_01v8_hvt
+Model sky130_fd_pr__pfet_g5v0d10v5 pin 1 == 3
+No property mult found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sa found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sb found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nf found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nrd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nrs found for device sky130_fd_pr__pfet_g5v0d10v5
+No property area found for device sky130_fd_pr__pfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__pfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__pfet_g5v0d10v5
+Model sky130_fd_pr__pfet_g5v0d10v5 pin 1 == 3
+No property as found for device sky130_fd_pr__pfet_g5v0d10v5
+No property ad found for device sky130_fd_pr__pfet_g5v0d10v5
+No property ps found for device sky130_fd_pr__pfet_g5v0d10v5
+No property pd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property mult found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sa found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sb found for device sky130_fd_pr__pfet_g5v0d10v5
+No property sd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nrd found for device sky130_fd_pr__pfet_g5v0d10v5
+No property nrs found for device sky130_fd_pr__pfet_g5v0d10v5
+No property area found for device sky130_fd_pr__pfet_g5v0d10v5
+No property perim found for device sky130_fd_pr__pfet_g5v0d10v5
+No property topography found for device sky130_fd_pr__pfet_g5v0d10v5
+No property value found for device sky130_fd_pr__diode_pw2nd_11v0
+No property mult found for device sky130_fd_pr__diode_pw2nd_11v0
+Comparison output logged to file sky130_icrg_ip__ulpcomp2_comp.out
+Logging to file "sky130_icrg_ip__ulpcomp2_comp.out" enabled
+Circuit sky130_fd_pr__nfet_01v8 contains no devices.
+Circuit sky130_fd_pr__pfet_01v8 contains no devices.
+Circuit sky130_fd_pr__nfet_g5v0d10v5 contains no devices.
+Circuit sky130_fd_pr__pfet_g5v0d10v5 contains no devices.
+Circuit sky130_fd_pr__pfet_01v8_hvt contains no devices.
+Circuit sky130_fd_pr__nfet_03v3_nvt contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hvl__lsbuflv2hv_1'
+Circuit sky130_fd_sc_hvl__lsbuflv2hv_1 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:  12
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 12 nets.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hvl__lsbuflv2hv_1'
+Circuit sky130_fd_sc_hvl__lsbuflv2hv_1 contains 20 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:  12
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 12 nets.
+
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hvl__lsbuflv2hv_1'
+Circuit sky130_fd_sc_hvl__lsbuflv2hv_1 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   4
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 12 nets.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hvl__lsbuflv2hv_1'
+Circuit sky130_fd_sc_hvl__lsbuflv2hv_1 contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   4
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 12 nets.
+
+Circuit 1 contains 12 devices, Circuit 2 contains 12 devices.
+Circuit 1 contains 12 nets,    Circuit 2 contains 12 nets.
+
+
+Contents of circuit 1:  Circuit: 'Stage0_clk_inv'
+Circuit Stage0_clk_inv contains 4 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8 instances:   2
+Circuit contains 5 nets.
+Contents of circuit 2:  Circuit: 'Stage0_clk_inv'
+Circuit Stage0_clk_inv contains 4 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   2
+  Class: sky130_fd_pr__pfet_01v8 instances:   2
+Circuit contains 5 nets.
+
+Circuit 1 contains 4 devices, Circuit 2 contains 4 devices.
+Circuit 1 contains 5 nets,    Circuit 2 contains 5 nets.
+
+
+Contents of circuit 1:  Circuit: 'Stage1'
+Circuit Stage1 contains 62 device instances.
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   2
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   2
+  Class: sky130_fd_sc_hvl__lsbuflv2hv_1 instances:   2
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:  56
+Circuit contains 15 nets.
+Contents of circuit 2:  Circuit: 'Stage1'
+Circuit Stage1 contains 9 device instances.
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   1
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   2
+  Class: sky130_fd_sc_hvl__lsbuflv2hv_1 instances:   2
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 15 nets.
+
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+
+Contents of circuit 1:  Circuit: 'Stage1'
+Circuit Stage1 contains 9 device instances.
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   1
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   2
+  Class: sky130_fd_sc_hvl__lsbuflv2hv_1 instances:   2
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 15 nets.
+Contents of circuit 2:  Circuit: 'Stage1'
+Circuit Stage1 contains 9 device instances.
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   1
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   2
+  Class: sky130_fd_sc_hvl__lsbuflv2hv_1 instances:   2
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 15 nets.
+
+Circuit 1 contains 9 devices, Circuit 2 contains 9 devices.
+Circuit 1 contains 15 nets,    Circuit 2 contains 15 nets.
+
+  Flattening non-matched subcircuits Stage1 Stage1
+
+Flattening instances of Stage1 in file ../netlist/layout/sky130_icrg_ip__ulpcomp2.spice
+Flattening instances of Stage1 in file /usr/local/share/pdk/sky130A/libs.ref/sky130_fd_sc_hvl/spice/sky130_fd_sc_hvl.spice
+
+Contents of circuit 1:  Circuit: 'Stage2_latch'
+Circuit Stage2_latch contains 17 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:  10
+  Class: sky130_fd_pr__pfet_01v8 instances:   1
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   5
+Circuit contains 13 nets.
+Contents of circuit 2:  Circuit: 'Stage2_latch'
+Circuit Stage2_latch contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+  Class: sky130_fd_pr__pfet_01v8 instances:   1
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   5
+Circuit contains 13 nets.
+
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+
+Contents of circuit 1:  Circuit: 'Stage2_latch'
+Circuit Stage2_latch contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+  Class: sky130_fd_pr__pfet_01v8 instances:   1
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   5
+Circuit contains 13 nets.
+Contents of circuit 2:  Circuit: 'Stage2_latch'
+Circuit Stage2_latch contains 12 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8_hvt instances:   5
+  Class: sky130_fd_pr__pfet_01v8 instances:   1
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   5
+Circuit contains 13 nets.
+
+Circuit 1 contains 12 devices, Circuit 2 contains 12 devices.
+Circuit 1 contains 13 nets,    Circuit 2 contains 13 nets.
+
+
+Contents of circuit 1:  Circuit: 'Stage0_ena_inv'
+Circuit Stage0_ena_inv contains 2 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8 instances:   1
+Circuit contains 4 nets.
+Contents of circuit 2:  Circuit: 'Stage0_ena_inv'
+Circuit Stage0_ena_inv contains 2 device instances.
+  Class: sky130_fd_pr__nfet_01v8 instances:   1
+  Class: sky130_fd_pr__pfet_01v8 instances:   1
+Circuit contains 4 nets.
+
+Circuit 1 contains 2 devices, Circuit 2 contains 2 devices.
+Circuit 1 contains 4 nets,    Circuit 2 contains 4 nets.
+
+
+Contents of circuit 1:  Circuit: 'sky130_icrg_ip__ulpcomp2'
+Circuit sky130_icrg_ip__ulpcomp2 contains 12 device instances.
+  Class: Stage2_latch          instances:   1
+  Class: Stage0_ena_inv        instances:   1
+  Class: Stage0_clk_inv        instances:   1
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   1
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   2
+  Class: sky130_fd_sc_hvl__lsbuflv2hv_1 instances:   2
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 20 nets.
+Contents of circuit 2:  Circuit: 'sky130_icrg_ip__ulpcomp2'
+Circuit sky130_icrg_ip__ulpcomp2 contains 12 device instances.
+  Class: Stage2_latch          instances:   1
+  Class: Stage0_ena_inv        instances:   1
+  Class: Stage0_clk_inv        instances:   1
+  Class: sky130_fd_pr__nfet_03v3_nvt instances:   1
+  Class: sky130_fd_pr__nfet_g5v0d10v5 instances:   2
+  Class: sky130_fd_sc_hvl__lsbuflv2hv_1 instances:   2
+  Class: sky130_fd_pr__pfet_g5v0d10v5 instances:   4
+Circuit contains 21 nets.
+
+Circuit 1 contains 12 devices, Circuit 2 contains 12 devices.
+Circuit 1 contains 20 nets,    Circuit 2 contains 20 nets.
+
+
+Final result: 
+Circuits match uniquely.
+.
+Logging to file "sky130_icrg_ip__ulpcomp2_comp.out" disabled
+LVS Done.
